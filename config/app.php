@@ -19,11 +19,11 @@ return [
     // 应用地址
     'app_host'               => '',
     // 应用调试模式
-    'app_debug'              => true,
+    'app_debug'              => false,
     // 应用Trace
     'app_trace'              => false,
     // 是否支持多模块
-    'app_multi_module'       => false,
+    'app_multi_module'       => true,
     // 入口自动绑定模块
     'auto_bind_module'       => false,
     // 注册的根命名空间
