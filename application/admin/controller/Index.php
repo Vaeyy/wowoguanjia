@@ -15,7 +15,7 @@ class Index extends Controller
 {
         //后台登陆
     public  function  login()
-    {   
+    {
          return   view();
     }
 
